@@ -3,6 +3,8 @@
 # Awesome-Digital-Asset-Custody
 ## 🌟 Top Digital Asset Custody Ecosystem
 **Curated List of SaaS Products & Open-Source GitHub Projects**
+
+*Discover the ultimate curated list of digital asset custody, MPC wallets, and institutional key management solutions. Optimize your self-custody and crypto operations with these top-tier platforms.*
 *Focused on Institutional Crypto Custody, Key Management, MPC, Multisig & Self-Custody Infrastructure*
 **Last updated: July 2026**
 

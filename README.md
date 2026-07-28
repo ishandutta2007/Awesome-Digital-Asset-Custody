@@ -1,3 +1,5 @@
+<p align="center"><img src="./assets/banner.svg" width="100%" alt="Awesome Digital Asset Custody Banner"></p>
+
 # Awesome-Digital-Asset-Custody
 ## Top Digital Asset Custody Ecosystem
 **Curated List of SaaS Products & Open-Source GitHub Projects**
@@ -62,55 +64,54 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Open-Source GitHub Projects
 
-- **[Safe (formerly Gnosis Safe)](https://github.com/safe-global)**  
+- **[Safe (formerly Gnosis Safe)](https://github.com/safe-global)** [![Stars](https://img.shields.io/github/stars/safe-global?style=social&color=white)](https://github.com/safe-global/stargazers)  
   Industry-standard open-source multi-signature smart contract wallet and account abstraction platform for EVM chains. Widely used by DAOs, protocols, and institutions for on-chain self-custody and treasury management.
 
-- **[Specter Desktop](https://github.com/cryptoadvance/specter-desktop)**  
+- **[Specter Desktop](https://github.com/cryptoadvance/specter-desktop)** [![Stars](https://img.shields.io/github/stars/cryptoadvance/specter-desktop?style=social&color=white)](https://github.com/cryptoadvance/specter-desktop/stargazers)  
   Free open-source Bitcoin multisig coordinator that works with Bitcoin Core and major hardware wallets (Coldcard, Trezor, Ledger, Jade, etc.). Focuses on air-gapped, privacy-preserving self-custody.
 
-- **[Caravan](https://github.com/unchained-capital/caravan)** (Unchained)  
+- **[Caravan](https://github.com/unchained-capital/caravan)** [![Stars](https://img.shields.io/github/stars/unchained-capital/caravan?style=social&color=white)](https://github.com/unchained-capital/caravan/stargazers) (Unchained)  
   Stateless open-source Bitcoin multisig wallet coordination tool. Runs in the browser, supports PSBT, and enables full recovery without relying on any third-party service.
 
-- **[Bitcoin Keeper](https://github.com/bithyve/bitcoin-keeper)**  
+- **[Bitcoin Keeper](https://github.com/bithyve/bitcoin-keeper)** [![Stars](https://img.shields.io/github/stars/bithyve/bitcoin-keeper?style=social&color=white)](https://github.com/bithyve/bitcoin-keeper/stargazers)  
   Community-led open-source multisig self-custody wallet with inheritance tools, timelocks, duress configurations, and optional server-assisted recovery. No accounts or subscriptions.
 
-- **[Sparrow Wallet](https://github.com/sparrowwallet/sparrow)**  
+- **[Sparrow Wallet](https://github.com/sparrowwallet/sparrow)** [![Stars](https://img.shields.io/github/stars/sparrowwallet/sparrow?style=social&color=white)](https://github.com/sparrowwallet/sparrow/stargazers)  
   Advanced open-source Bitcoin desktop wallet with excellent multisig, coin control, hardware wallet, and PSBT support. Designed for technical users prioritizing privacy and sovereignty.
 
-- **[TKeeper](https://github.com/exploit-org/TKeeper)**  
+- **[TKeeper](https://github.com/exploit-org/TKeeper)** [![Stars](https://img.shields.io/github/stars/exploit-org/TKeeper?style=social&color=white)](https://github.com/exploit-org/TKeeper/stargazers)  
   Open-source key management system based on MPC threshold schemes (GG20 ECDSA, FROST). Supports distributed key generation, signing, refresh, and policy controls for institutional-grade self-hosted custody.
 
-- **[blockchain-crypto-mpc](https://github.com/unboundsecurity/blockchain-crypto-mpc)** (Unbound Security)  
+- **[blockchain-crypto-mpc](https://github.com/unboundsecurity/blockchain-crypto-mpc)** [![Stars](https://img.shields.io/github/stars/unboundsecurity/blockchain-crypto-mpc?style=social&color=white)](https://github.com/unboundsecurity/blockchain-crypto-mpc/stargazers) (Unbound Security)  
   Open-source cryptographic library providing 2-party MPC for ECDSA/EdDSA, BIP32, key share refresh, and secure key protection without dedicated hardware.
 
-- **[Oko](https://github.com/chainapsis/oko)**  
+- **[Oko](https://github.com/chainapsis/oko)** [![Stars](https://img.shields.io/github/stars/chainapsis/oko?style=social&color=white)](https://github.com/chainapsis/oko/stargazers)  
   Open-source embedded wallet stack using multi-party computation (TSS + SSS). Fully self-hostable, passwordless, multi-chain, and designed for developers needing complete control over key management.
 
-- **[Threshold](https://github.com/onthreshold/threshold)**  
+- **[Threshold](https://github.com/onthreshold/threshold)** [![Stars](https://img.shields.io/github/stars/onthreshold/threshold?style=social&color=white)](https://github.com/onthreshold/threshold/stargazers)  
   Open-source alternative to institutional custodians. Decentralized multisig infrastructure for Bitcoin built in Rust using threshold signature cryptography for scalable secure storage.
 
-- **[SmartVaults](https://github.com/smartvaults/smartvaults)**  
+- **[SmartVaults](https://github.com/smartvaults/smartvaults)** [![Stars](https://img.shields.io/github/stars/smartvaults/smartvaults?style=social&color=white)](https://github.com/smartvaults/smartvaults/stargazers)  
   Open-source Bitcoin multi-custody protocol using Nostr for signer discovery, policy management, and signature orchestration with Taproot support.
 
-- **[Revault](https://github.com/Revault-Bitcoin-Custody)**  
+- **[Revault](https://github.com/Revault-Bitcoin-Custody)** [![Stars](https://img.shields.io/github/stars/Revault-Bitcoin-Custody?style=social&color=white)](https://github.com/Revault-Bitcoin-Custody/stargazers)  
   Open-source Bitcoin custody architecture for organizations combining vault policies, multisig security, spending paths, and emergency recovery workflows.
 
-- **[MyCitadel](https://github.com/mycitadel)**  
+- **[MyCitadel](https://github.com/mycitadel)** [![Stars](https://img.shields.io/github/stars/mycitadel?style=social&color=white)](https://github.com/mycitadel/stargazers)  
   Fully open-source Bitcoin wallet supporting complex multisig, timelocks, descriptors, hardware/air-gapped keys, and Lightning, written in Rust for maximum sovereignty.
 
-- **[Blockchain Commons SmartCustody](https://github.com/BlockchainCommons/SmartCustody)**  
+- **[Blockchain Commons SmartCustody](https://github.com/BlockchainCommons/SmartCustody)** [![Stars](https://img.shields.io/github/stars/BlockchainCommons/SmartCustody?style=social&color=white)](https://github.com/BlockchainCommons/SmartCustody/stargazers)  
   Educational and practical open-source resources, scenarios, and tools focused on responsible key management, multisigs, SSKR shares, and resilient digital asset custody design.
 
 ### Additional Strong Open-Source Options
-- **[Electrum](https://github.com/spesmilo/electrum)** — Long-standing open-source Bitcoin wallet with robust multisig and hardware support.
-- **[Nunchuk](https://github.com/nunchuk-io)** — Specialized open-source multisig wallet with strong inheritance and collaborative features.
-- **[OpenCustody](https://github.com/opencustodynet)** — Open-source HSM-focused custody solution aimed at exchanges and crypto banks.
-- **[Signing Room](https://github.com/scarlin90/signingroom)** — Stateless, zero-knowledge Bitcoin multisig coordination layer (client-side encrypted).
+- **[Electrum](https://github.com/spesmilo/electrum)** [![Stars](https://img.shields.io/github/stars/spesmilo/electrum?style=social&color=white)](https://github.com/spesmilo/electrum/stargazers) — Long-standing open-source Bitcoin wallet with robust multisig and hardware support.
+- **[Nunchuk](https://github.com/nunchuk-io)** [![Stars](https://img.shields.io/github/stars/nunchuk-io?style=social&color=white)](https://github.com/nunchuk-io/stargazers) — Specialized open-source multisig wallet with strong inheritance and collaborative features.
+- **[OpenCustody](https://github.com/opencustodynet)** [![Stars](https://img.shields.io/github/stars/opencustodynet?style=social&color=white)](https://github.com/opencustodynet/stargazers) — Open-source HSM-focused custody solution aimed at exchanges and crypto banks.
+- **[Signing Room](https://github.com/scarlin90/signingroom)** [![Stars](https://img.shields.io/github/stars/scarlin90/signingroom?style=social&color=white)](https://github.com/scarlin90/signingroom/stargazers) — Stateless, zero-knowledge Bitcoin multisig coordination layer (client-side encrypted).
 - **[Steward](https://steward.fi/)** — MIT-licensed self-hostable wallets, custody, and spend policy infrastructure for humans and agents.
 - **MPC & Threshold Libraries**: Projects implementing GG18/GG20, FROST, DKLs23, and related protocols for building custom MPC custody systems.
 - **Hardware & Air-Gapped Tools**: Open-source firmware and coordinators for Coldcard, SeedSigner, Foundation Passport, Specter DIY, and similar devices.
 - Many community **PSBT**, **descriptor**, **HWI**, and **sensor/IoT fusion** projects for advanced self-custody setups.
-
 **Frameworks for building custom systems**: Combine **Safe**, **Specter Desktop / Sparrow**, **TKeeper / blockchain-crypto-mpc**, **Bitcoin Core + HWI**, and **InfluxDB + Grafana** (or similar observability) with policy engines and hardware signers for fully sovereign institutional-grade custody platforms.
 
 ## How to Contribute

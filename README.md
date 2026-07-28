@@ -1,7 +1,7 @@
 <p align="center"><img src="./assets/banner.svg" width="100%" alt="Awesome Digital Asset Custody Banner"></p>
 
 # Awesome-Digital-Asset-Custody
-## Top Digital Asset Custody Ecosystem
+## 🌟 Top Digital Asset Custody Ecosystem
 **Curated List of SaaS Products & Open-Source GitHub Projects**
 *Focused on Institutional Crypto Custody, Key Management, MPC, Multisig & Self-Custody Infrastructure*
 **Last updated: July 2026**
@@ -20,7 +20,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
-## SaaS/Hosted Platforms
+## 🏢 SaaS/Hosted Platforms
 
 ### Core Platforms (Institutional Digital Asset Custody)
 - **[Fireblocks](https://www.fireblocks.com/)**  
@@ -62,7 +62,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - **[Gemini Custody](https://www.gemini.com/custody)** — Regulated multi-sig custody with strong compliance focus.
 - **[Fidelity Digital Assets](https://www.fidelitydigitalassets.com/)** — Traditional finance-backed institutional crypto custody.
 
-## Open-Source GitHub Projects
+## 💻 Open-Source GitHub Projects
 
 - **[Safe (formerly Gnosis Safe)](https://github.com/safe-global)** [![Stars](https://img.shields.io/github/stars/safe-global?style=social&color=white)](https://github.com/safe-global/stargazers)  
   Industry-standard open-source multi-signature smart contract wallet and account abstraction platform for EVM chains. Widely used by DAOs, protocols, and institutions for on-chain self-custody and treasury management.
@@ -114,7 +114,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - Many community **PSBT**, **descriptor**, **HWI**, and **sensor/IoT fusion** projects for advanced self-custody setups.
 **Frameworks for building custom systems**: Combine **Safe**, **Specter Desktop / Sparrow**, **TKeeper / blockchain-crypto-mpc**, **Bitcoin Core + HWI**, and **InfluxDB + Grafana** (or similar observability) with policy engines and hardware signers for fully sovereign institutional-grade custody platforms.
 
-## How to Contribute
+## 🤝 How to Contribute
 1. Fork the repo.
 2. Add/edit entries in `README.md` (follow existing format).
 3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
@@ -122,7 +122,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 Star the repo if you find it useful!
 
-## Disclaimer
+## ⚠️ Disclaimer
 - This is a **community-curated** list — not exhaustive and not an endorsement.
 - Digital asset custody involves significant regulatory, security, and operational requirements (qualified custodian status, SOC 2, insurance, jurisdictional licensing, etc.).
 - Self-hosted open-source solutions require rigorous operational security, key ceremonies, disaster recovery planning, and ongoing audits. They are not “set and forget.”

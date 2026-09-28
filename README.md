@@ -110,6 +110,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Additional Strong Open-Source Options
 - **[Electrum](https://github.com/spesmilo/electrum)** [![Stars](https://img.shields.io/github/stars/spesmilo/electrum?style=social&color=white)](https://github.com/spesmilo/electrum/stargazers) — Long-standing open-source Bitcoin wallet with robust multisig and hardware support.
+- **[NeverLoseBitcoin](https://neverlosebitcoin.com/multisig/)**: multisig education hub and free multisig setup wizard for Bitcoin self-custody.
 - **[Nunchuk](https://github.com/nunchuk-io)** [![Stars](https://img.shields.io/github/stars/nunchuk-io?style=social&color=white)](https://github.com/nunchuk-io/stargazers) — Specialized open-source multisig wallet with strong inheritance and collaborative features.
 - **[OpenCustody](https://github.com/opencustodynet)** [![Stars](https://img.shields.io/github/stars/opencustodynet?style=social&color=white)](https://github.com/opencustodynet/stargazers) — Open-source HSM-focused custody solution aimed at exchanges and crypto banks.
 - **[Signing Room](https://github.com/scarlin90/signingroom)** [![Stars](https://img.shields.io/github/stars/scarlin90/signingroom?style=social&color=white)](https://github.com/scarlin90/signingroom/stargazers) — Stateless, zero-knowledge Bitcoin multisig coordination layer (client-side encrypted).
